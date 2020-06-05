@@ -1,6 +1,11 @@
-+const name = "Enoch Owoeye";
-+const id =  "HNG-00991";
-+const email = "enochowoeye001@gmail.com";
-+const language = "Python";
-+const status = "Pass"
-+console.log("Hello World, this is +name with HNGi7 ID HNG- "id" using + Language for Stage 2 task"
+  
++name = "Enoch Owoeye";
++id = "00991";
++email = "enochowoeye001@gmail.com";
++Language = "PHP";
++print("Hello World, this is "+ name +" with HNGi7 ID "+id +" using "+ Language +" for stage 2 task email "+ email +")
+
+
+
+
+
